@@ -1,3 +1,4 @@
 # My-restaurant
 
-![WireFrame](Rest Luscious Licorice.png)
+![WireFrame](/home/abdalrhman/My-restaurant./Rest Luscious Licorice.png)
+![Alt text](<Rest Luscious Licorice.png>)
